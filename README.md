@@ -1,1 +1,1 @@
-# rpss
+# rock-paper-scissor-boilerplate
